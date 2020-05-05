@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <time.h>
-#include<iomanip>
+#include <iomanip>
 using namespace std;
 
 void HSort(int *, int, int);
